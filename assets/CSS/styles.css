@@ -1,0 +1,17 @@
+body {
+    background-image: url("../Images/clock\ background.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    opacity: 0.8;
+    color: Blue;
+    text-shadow: -1px 0 white, 0 1px cyan, 1px 0 white, 0 -1px white;
+}
+
+.row {
+    color: Blue;
+    text-shadow: -1px 0 white, 0 1px cyan, 1px 0 white, 0 -1px white;
+}
